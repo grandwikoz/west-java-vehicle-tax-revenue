@@ -27,6 +27,8 @@ All of the data used here come from Open Data Jabar and Indonesia Statistics wit
 # Flow
 As with any other project, this is also started with some data cleaning and, subsequently, assembling. After that, it continues with doing stastical test in order to some hyphotesis. Lastly, the project goes to derive linear regression model to build a prediction tool for tax revenue.
 
+For simplicity reason, this project is divided into three files, `stat_project_dataset`, `stat_project_inference` and `stat_project_regression_final`. The first one contains ready-to-use and after-cleaning data, the second is for statistical inference and the last is for modelling linear regression.
+
 # Data Cleaning and Assembly
 Since the data came from public administration, there is not really any empty data there. The real work is about assembling different data for certain uses since different use requires different granularities.
 
